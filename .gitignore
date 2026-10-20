@@ -1,0 +1,16 @@
+# Preserve machine-specific notes and historical trackers locally.
+/Simulation_Physical_AI_Tracker_v3.5.html
+/docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.4_52_Semanas.html
+/docs/projects/university-building-digital-twin/00-week-01-plan.md
+/docs/projects/university-building-digital-twin/README.md
+/.local/
+/docs/projects/university-building-digital-twin/evidence/
+/docs/projects/university-building-digital-twin/decisions/
+*progress*.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+.DS_Store
