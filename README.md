@@ -2,11 +2,11 @@
 
 A 52-week learning and portfolio roadmap, from Unreal Engine C++ and infrastructure simulation to Python, OpenUSD, Omniverse, Isaac Sim and ROS 2.
 
-**[Open the tracker](https://cesardemacedo.github.io/Physical-AI-Portfolio/)** · [Edit on GitHub](https://github.com/CesarDeMacedo/Physical-AI-Portfolio/edit/main/docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.5_52_Semanas.html)
+**[Open the tracker](https://cesardemacedo.github.io/Physical-AI-Portfolio/)** · [Edit on GitHub](https://github.com/CesarDeMacedo/Physical-AI-Portfolio/edit/main/docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.9_52_Semanas.html)
 
 ## Active roadmap
 
-[Tracker v5.5](docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.5_52_Semanas.html) covers October 12, 2026 to October 10, 2027, with approximately 8–10 hours per week.
+[Tracker v5.9](docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.9_52_Semanas.html) covers October 12, 2026 to October 10, 2027, with approximately 8–10 hours per week.
 
 - Weeks 1–12: Operations Mode and WSP case study.
 - Weeks 13–16: Operator Training, including one 10–15 minute mission.
@@ -14,6 +14,8 @@ A 52-week learning and portfolio roadmap, from Unreal Engine C++ and infrastruct
 - Weeks 35–52: Isaac Sim, ROS 2 and robotic inspection.
 
 WSP applications proceed in parallel. The University of Colorado Python course remains light parallel study during weeks 1–16.
+
+The next portfolio concept is a Data Center Operations & Maintenance Simulator, considered only after the first simulator and Training Mode are demonstrable. Outcome-driven services and EPI CDCP are optional future paths, not additional deliverables in this 52-week schedule. NCP-OpenUSD remains the technical certification priority.
 
 ## Infrastructure Operations & Training Simulator
 
@@ -25,6 +27,8 @@ A local Windows application set in a fictional Canadian university building, wit
 
 Read the [scope](docs/projects/university-building-digital-twin/01-scope-v1.md), [telemetry vocabulary](docs/projects/university-building-digital-twin/02-asset-and-telemetry-model.md) and [architecture proposal](docs/projects/university-building-digital-twin/03-v5.5-architecture-decision.md).
 
+The [v5.9 decision note](docs/projects/university-building-digital-twin/04-v5.9-roadmap-update.md) summarizes what changed without replacing the earlier architecture decision.
+
 All operational data and procedures are demonstrative. This is not a live equipment controller, certified training system, commissioning tool or engineering safety validation. SaaS, multiplayer and Pixel Streaming are outside the MVP.
 
 ## Updating the plan
@@ -35,7 +39,7 @@ Edit the active HTML through GitHub's pencil button and commit to main, or updat
 git pull --ff-only
 # Edit and review the intended files.
 git diff
-git add docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.5_52_Semanas.html
+git add docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.9_52_Semanas.html
 git commit -m "Update learning roadmap"
 git push
 ```

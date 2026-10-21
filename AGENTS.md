@@ -8,7 +8,7 @@ Use Brazilian Portuguese for collaboration. Use English for production code, ide
 
 ## Source of truth
 
-The planning source is `docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.5_52_Semanas.html`. Preserve its 52-week sequence and task IDs unless the user explicitly requests a planning change:
+The planning source is `docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.9_52_Semanas.html`. Preserve its 52-week sequence and task IDs unless the user explicitly requests a planning change:
 
 - Weeks 1–12: Infrastructure Operations & Training Simulator — Operations Mode.
 - Weeks 13–16: Training Mode.
@@ -16,6 +16,8 @@ The planning source is `docs/tracker/Unreal_Simulation_Physical_AI_Tracker_v5.5_
 - Weeks 35–52: Isaac Sim, ROS 2 and robotic inspection.
 
 `Simulation_Physical_AI_Tracker_v3.5.html` is historical reference only. Do not treat it as the active roadmap.
+
+The v5.9 update keeps Data Center Operations & Maintenance Simulator as portfolio project #2 after the university-building MVP and Training Mode, not a parallel 52-week deliverable. Outcome-driven services and EPI CDCP are future/optional; NCP-OpenUSD remains the technical certification priority. Python and Unreal C++ remain active; Verse/Scene Graph is monitor-only and Rust is optional.
 
 ## First portfolio project
 
@@ -39,7 +41,7 @@ The project is not a real facility model, live BAS/BMS integration, equipment co
 
 ## Documentation layout
 
-Project planning and evidence belong under `docs/projects/university-building-digital-twin/`. Keep scope, telemetry vocabulary, decisions and evidence separate. The root README should remain a concise orientation document; the v5.5 HTML tracker remains the detailed schedule.
+Project planning and evidence belong under `docs/projects/university-building-digital-twin/`. Keep scope, telemetry vocabulary, decisions and evidence separate. The root README should remain a concise orientation document; the v5.9 HTML tracker remains the detailed schedule.
 
 ## First task on opening the project
 
